@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="190mm"
+   height="25mm"
+   viewBox="0 0 190 25"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="cyber-pathways-logo.svg"
+   inkscape:export-filename="C:\Users\andreas\PycharmProjects\cyberpathways.cybergroupalumni.ch\static\images\cyber-pathways-logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5620933"
+     inkscape:cx="312.43984"
+     inkscape:cy="140.90041"
+     inkscape:window-width="3840"
+     inkscape:window-height="2050"
+     inkscape:window-x="-12"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-103.82136"
+       y="-57.76527"
+       width="1020.2595"
+       height="233.40291"
+       id="rect38276" />
+    <rect
+       x="-9.367341"
+       y="51.520374"
+       width="814.95868"
+       height="493.34662"
+       id="rect2564" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,1.3941236,-16.729486)"
+       id="text2562"
+       style="font-size:96px;line-height:0;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2564)"><tspan
+         x="-9.3671875"
+         y="135.51953"
+         id="tspan19445"><tspan
+           style="font-weight:bold;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';fill:#2ea19e"
+           id="tspan19439">Cyber</tspan><tspan
+           style="font-weight:bold;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
+           id="tspan19441"> </tspan><tspan
+           style="font-style:italic;font-weight:bold;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold Italic';fill:#51cdcd"
+           id="tspan19443">Pathways</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text38274"
+       style="font-size:32px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect38276)" />
+  </g>
+</svg>
